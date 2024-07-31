@@ -1,0 +1,8 @@
+# ninja log v5
+2	656	7357613081553954	CMakeFiles/laboratory_5.dir/main.c.obj	734fa28941c3c08
+1	133	7357652204770874	build.ninja	95367ac0babd2a07
+2	851	7356870792149077	CMakeFiles/laboratory_5.dir/side_process.c.obj	a0f768918a79781f
+657	739	7357613082365656	laboratory_5.exe	ef1f69310b041d41
+2	668	7357584714711001	CMakeFiles/laboratory_5.dir/side.c.obj	3e1a69737ecafe0c
+2	734	7357674427834559	CMakeFiles/laboratory_5.dir/main.c.obj	734fa28941c3c08
+735	864	7357674429097686	laboratory_5.exe	ef1f69310b041d41

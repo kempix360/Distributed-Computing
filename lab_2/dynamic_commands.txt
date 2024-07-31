@@ -1,0 +1,19 @@
+//dynamic commands
+gcc -c -Wall -fPIC -D_GNU_SOURCE create_tree.c
+gcc -c -Wall -fPIC -D_GNU_SOURCE print_tree.c
+gcc create_tree.o print_tree.o -shared -o lib_treedynamic.so
+gcc -c main.c -o main_dynamic_test.o
+gcc main_dynamic.o -L . -l_treedynamic -o main_dynamic.out
+ldd main_dynamic_test.out
+export LD_LIBRARY_PATH ="$LD_LIBRARY_PATH:."
+./main_dynamic_test.out
+
+
+//static commands
+gcc -c create_tree.c -o create_tree.o
+gcc -c print_tree.c -o print_tree.o 
+$ ar r lib_treestatic.a dod create_tree.o print_tree.o
+$ ar tv lib_treestatic.a
+gcc -c main.c -o main.o
+gcc main.o lib_treestatic.a -o result_static.out
+./result_static.out

@@ -1,0 +1,6 @@
+# ninja log v5
+7	720	7380111376086424	CMakeFiles/laboratory_6.dir/main.c.obj	c70fb79ac20c5b04
+225	459	7379163674905419	laboratory_6.exe	d6f0ba22aa413416
+2	706	7380111375933949	CMakeFiles/laboratory_6.dir/client.c.obj	c0b6d0e513bb3b86
+5	673	7380115185758160	CMakeFiles/laboratory_6.dir/Client/client.c.obj	5ba40083c7b095a0
+0	690	7380115185937695	CMakeFiles/laboratory_6.dir/Server/server.c.obj	40b3fc55c63e58f1

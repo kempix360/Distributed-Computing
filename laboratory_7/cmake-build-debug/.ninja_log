@@ -1,0 +1,19 @@
+# ninja log v5
+2	96	7381189155364350	CMakeFiles/laboratory_7.dir/main.c.obj	e3bf7afae185cb
+96	197	7381189156334312	laboratory_7.exe	26b6ddc2738a1b15
+0	127	7381197763505972	build.ninja	de268b66ddc37a38
+2	73	7379238667398856	CMakeFiles/laboratory_7.dir/tree.c.obj	9d4dd9e26e5f4f2e
+1	89	7381201091533200	CMakeFiles/laboratory_7.dir/main.c.obj	e3bf7afae185cb
+90	180	7381201092405163	laboratory_7.exe	26b6ddc2738a1b15
+2	90	7381201949465119	CMakeFiles/laboratory_7.dir/main.c.obj	e3bf7afae185cb
+91	173	7381201950255078	laboratory_7.exe	26b6ddc2738a1b15
+3	293	7381855184862275	CMakeFiles/laboratory_7.dir/main.c.obj	e3bf7afae185cb
+293	628	7381855187874761	laboratory_7.exe	26b6ddc2738a1b15
+2	125	7381860311924271	CMakeFiles/laboratory_7.dir/main.c.obj	e3bf7afae185cb
+126	261	7381860313222283	laboratory_7.exe	26b6ddc2738a1b15
+2	127	7381861315327424	CMakeFiles/laboratory_7.dir/main.c.obj	e3bf7afae185cb
+128	246	7381861316458022	laboratory_7.exe	26b6ddc2738a1b15
+2	109	7381862738973190	CMakeFiles/laboratory_7.dir/main.c.obj	e3bf7afae185cb
+110	216	7381862739995242	laboratory_7.exe	26b6ddc2738a1b15
+2	105	7381863188267702	CMakeFiles/laboratory_7.dir/main.c.obj	e3bf7afae185cb
+106	214	7381863189319088	laboratory_7.exe	26b6ddc2738a1b15

@@ -1,0 +1,3 @@
+C:/Users/ArthurMorgan/OneDrive/Desktop/4_semestr/Przetwarzanie_rozproszone/laboratory_5/cmake-build-debug/CMakeFiles/laboratory_5.dir
+C:/Users/ArthurMorgan/OneDrive/Desktop/4_semestr/Przetwarzanie_rozproszone/laboratory_5/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ArthurMorgan/OneDrive/Desktop/4_semestr/Przetwarzanie_rozproszone/laboratory_5/cmake-build-debug/CMakeFiles/rebuild_cache.dir

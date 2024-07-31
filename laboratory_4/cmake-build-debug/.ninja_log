@@ -1,0 +1,22 @@
+# ninja log v5
+2	614	7351535694088243	CMakeFiles/laboratory_4.dir/main.c.obj	7ccb7ac1ceaa3189
+13	87	7345586358010836	CMakeFiles/laboratory_4.dir/process_3.c.obj	736891dbf537fe1b
+8	737	7345586364513011	CMakeFiles/laboratory_4.dir/process_2.c.obj	c6e55497f8b13baa
+614	699	7351535694907031	laboratory_4.exe	fb2bc5a48b95c882
+1	256	7345608849057948	build.ninja	c0f1ea09995f4461
+2	662	7351538114410520	CMakeFiles/laboratory_4.dir/main.c.obj	7ccb7ac1ceaa3189
+662	756	7351538115323675	laboratory_4.exe	fb2bc5a48b95c882
+3	648	7351555236188372	CMakeFiles/laboratory_4.dir/main.c.obj	7ccb7ac1ceaa3189
+648	741	7351555237115460	laboratory_4.exe	fb2bc5a48b95c882
+1	644	7351555707629365	CMakeFiles/laboratory_4.dir/main.c.obj	7ccb7ac1ceaa3189
+645	740	7351555708554121	laboratory_4.exe	fb2bc5a48b95c882
+3	620	7351556138507647	CMakeFiles/laboratory_4.dir/main.c.obj	7ccb7ac1ceaa3189
+620	703	7351556139316211	laboratory_4.exe	fb2bc5a48b95c882
+2	1620	7351569640332827	CMakeFiles/laboratory_4.dir/main.c.obj	7ccb7ac1ceaa3189
+1620	1794	7351569642029841	laboratory_4.exe	fb2bc5a48b95c882
+2	634	7351569931171292	CMakeFiles/laboratory_4.dir/main.c.obj	7ccb7ac1ceaa3189
+634	727	7351569932060000	laboratory_4.exe	fb2bc5a48b95c882
+2	656	7351570020658998	CMakeFiles/laboratory_4.dir/main.c.obj	7ccb7ac1ceaa3189
+656	759	7351570021666624	laboratory_4.exe	fb2bc5a48b95c882
+2	706	7351620345374964	CMakeFiles/laboratory_4.dir/main.c.obj	7ccb7ac1ceaa3189
+706	803	7351620346313004	laboratory_4.exe	fb2bc5a48b95c882

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="lab_1" targetName="lab_1" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bf63125a-f992-4c78-aa42-da787b39a81c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Sztuczna Inteligencja/lab2/.idea/other.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laboratory_1.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laboratory_1/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../laboratory_1/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laboratory_1/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../laboratory_1/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laboratory_1/cmake-build-debug/CMakeFiles/laboratory_1.dir/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../laboratory_1/cmake-build-debug/CMakeFiles/laboratory_1.dir/main.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laboratory_1/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../laboratory_1/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laboratory_1/cmake-build-debug/laboratory_1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../laboratory_1/cmake-build-debug/laboratory_1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laboratory_1/header.h" beforeDir="false" afterPath="$PROJECT_DIR$/../laboratory_1/header.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laboratory_1/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../laboratory_1/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../System operacyjny MAC OS X i IOS/laboratory_1.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sztuczna Inteligencja/lab1/for_students.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sztuczna Inteligencja/lab1/for_students.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="1.3" />
+  </component>
+  <component name="ProjectId" id="2dgmRGYdGTX4aQi4hMH0FxpQiI6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ArthurMorgan\OneDrive\Desktop\4. semestr\Przetwarzanie rozproszone\lab_1\cmake-build-debug" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="lab_1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab_1" TARGET_NAME="lab_1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lab_1" RUN_TARGET_NAME="lab_1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf63125a-f992-4c78-aa42-da787b39a81c" name="Changes" comment="" />
+      <created>1710438085539</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710438085539</updated>
+      <workItem from="1710438086625" duration="4596000" />
+      <workItem from="1710462883452" duration="2437000" />
+      <workItem from="1710631117272" duration="3172000" />
+      <workItem from="1710672172160" duration="6000" />
+      <workItem from="1710763862330" duration="602000" />
+      <workItem from="1711024839798" duration="3801000" />
+      <workItem from="1711041065203" duration="773000" />
+      <workItem from="1711042123439" duration="184000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticEditVcpkgJson value="false" />
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticFoundErrors value="true" />
+  </component>
+</project>
